@@ -4,4 +4,4 @@
 
   
 - Each sample app first opens to a page where clients enter their SSO token and hostId. This allows clients to see the web app as if it were their own account.
-<img width="1448" alt="initial page" src="https://github.com/Kiran-Mandhane/iotum-samples/assets/108360272/cf7b13ad-eff7-45a3-8420-1c1b2f521452">
+<img width="1448" alt="initial page" src="https://github.com/Kiran-Mandhane/iotum-samples/assets/108360272/55df143b-26bd-4f65-b5cc-d4706af3de09">
